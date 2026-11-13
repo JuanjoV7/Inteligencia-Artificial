@@ -1,6 +1,6 @@
 # Entregable T1 · Repositorio de Inteligencia Artificial
 
-**Estudiante:** Juan José Viana
+**Estudiantes:** Juan José Viana, Mateo Cardenas Correa
 
 Este repositorio reúne los tres ejercicios trabajados en las sesiones de IA. Cada ejercicio está en su propia carpeta.
 
