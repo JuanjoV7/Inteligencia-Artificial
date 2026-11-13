@@ -1,0 +1,164 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Gabriela, Diego, Ana
+Criterio: Nuestro criterio de selección es  las 3 notas mas bajas y teniendo en cuenta las condiciones que tiene cada uno 
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+Selección de los tres estudiantes
+Teniendo en cuenta las notas, la asistencia y las situaciones personales de los ocho estudiantes, mi recomendación es seleccionar a Ana, Diego y Gabriela para el programa de acompañamiento.
+
+| Estudiante | Nota actual | Asistencia | ¿Por qué seleccionarlo? |
+|---|---:|---:|---|
+| ✅ **Ana** | 2,1 | 95 % | Aunque estudia por su cuenta y tiene buena asistencia, todavía no comprende varios conceptos básicos. Necesita acompañamiento para reforzar sus conocimientos y mejorar su rendimiento. |
+| ✅ **Diego** | 1,9 | 60 % | Tiene la nota más baja y ha faltado a clases por cuidar a un familiar. Quiere continuar estudiando, pero se siente atrasado. El programa podría ayudarlo a recuperar los temas perdidos y continuar con sus estudios. |
+| ✅ **Gabriela** | 2,6 | 80 % | Comparte el computador en casa y casi no puede practicar. El acompañamiento podría ayudarla a encontrar estrategias para aprovechar mejor el tiempo de práctica y fortalecer sus habilidades de programación. |
+
+2. ¿Por qué no seleccionar a los otros estudiantes?
+- Bruno (2,8): Su horario laboral coincide con algunas clases. Necesita apoyo para organizar sus horarios y recuperar los contenidos, aunque su situación también merece atención.
+- Camila (2,8): Tiene una asistencia del 100 % y puede resolver ejercicios con ayuda, pero necesita desarrollar autonomía para trabajar sola.
+- Elena (2,7): Comprende las explicaciones, aunque comete errores al programar. Le convendría practicar más y recibir retroalimentación.
+- Felipe (4,3): Tiene el mejor rendimiento académico y una asistencia del 95 %. Como el curso le resulta sencillo, podría beneficiarse más de actividades avanzadas que de un programa de refuerzo.
+- Hugo (2,5): Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta. Necesita fortalecer su comprensión y capacidad para explicar sus soluciones.
+
+
+OBSERVACIONES
+3. Criterios utilizados para tomar la decisión
+La selección se basa en cuatro criterios:
+1. Rendimiento académico: Se prioriza a quienes tienen notas bajas y necesitan reforzar sus conocimientos.
+2. Dificultades de aprendizaje: Se consideran los problemas para comprender conceptos básicos y practicar programación de manera autónoma.
+3. Situación personal y recursos disponibles: Se tienen en cuenta las responsabilidades familiares y las limitaciones de acceso a un computador.
+4. Posibilidad de mejorar: Se prioriza a estudiantes que pueden beneficiarse del acompañamiento para avanzar en el curso.
+4. Conclusión
+Los tres estudiantes seleccionados son Ana, Diego y Gabriela, porque presentan necesidades importantes que pueden afectar su aprendizaje y su continuidad en el curso.
+
+Ana necesita reforzar los conceptos básicos de programación; Diego requiere recuperar los contenidos que ha perdido debido a sus responsabilidades familiares; y Gabriela necesita alternativas para practicar, ya que no dispone de un computador de uso exclusivo.
+
+Esta selección busca que el programa de acompañamiento llegue a estudiantes que enfrentan dificultades académicas y personales. No obstante, los otros estudiantes también pueden necesitar apoyo; simplemente, con solo tres cupos disponibles, se propone priorizar a quienes presentan una combinación más significativa de dificultades.
+
+Importante: La selección no debe basarse únicamente en las notas. También debe considerar las oportunidades de aprendizaje, las circunstancias personales y las necesidades particulares de cada estudiante.
+
+SEGUNDA CONSULTA
+[Falta seleccionar el programa]
+
+SEGUNDA RESPUESTA
+Basándonos estrictamente en los datos de la tabla y aplicando un criterio puramente académico y de riesgo objetivo (dando máxima prioridad a las calificaciones más bajas y a las barreras críticas de desempeño), aquí tienes la selección independiente de los tres estudiantes que más necesitan acompañamiento:
+
+---
+
+### 1. Selección de los tres estudiantes (bajo criterio objetivo de la IA)
+
+* **Diego (Nota: 1,9 | Asistencia: 60%)**
+
+
+* *Criterio:* Es la calificación más baja de toda la clase por un margen considerable (1,9), acompañada de una inasistencia crítica (60%) debido al cuidado de un familiar. Su situación combina un rezago extremo con barreras externas severas.
+
+
+
+
+* **Ana (Nota: 2,1 | Asistencia: 95%)**
+
+
+* *Criterio:* Presenta la segunda nota más baja del grupo (2,1). Lo alarmante en su caso es que, a pesar de tener una excelente asistencia (95%) y estudiar por cuenta propia, es incapaz de comprender los conceptos básicos, lo que demuestra que el esfuerzo autónomo no le está funcionando y requiere intervención docente urgente.
+
+
+
+
+* **Hugo (Nota: 2,5 | Asistencia: 90%)**
+
+
+* *Criterio:* Posee la tercera nota más baja de la tabla (2,5). Aunque cumple entregando sus actividades (90% de asistencia), el informe señala que "le cuesta explicar cómo funciona el código que presenta". Esto evidencia una posible falta de comprensión real o de autonomía técnica (riesgo de plagio o dependencia de terceros), haciendo necesario un refuerzo formativo.
+
+
+
+
+
+---
+
+### 2. Justificación de por qué se dejó fuera a los demás
+
+* **Bruno (Nota: 2,8 | Asistencia: 65%):** Su nota es baja (2,8) y su asistencia es deficiente (65%) debido a cruces con turnos de trabajo. Si bien necesita flexibilidad, su problema principal es logístico y de tiempo más que un bloqueo conceptual severo en comparación con los tres seleccionados.
+
+
+* **Camila (Nota: 2,8 | Asistencia: 100%):** Aunque reprueba con 2,8, asiste a todas las clases y avanza si cuenta con apoyo puntual de una compañera; su barrera es principalmente de confianza operativa y no un fracaso generalizado de conceptos.
+
+
+* **Elena (Nota: 2,7 | Asistencia: 100%):** Su nota está ligeramente por debajo del mínimo (2,7), pero el reporte indica que *sí* comprende las explicaciones teóricas y sus fallas son los errores habituales de programación que se resuelven con práctica.
+
+
+* **Felipe (Nota: 4,3 | Asistencia: 95%):** Está aprobando holgadamente con un excelente promedio; su perfil es de profundización avanzada y no de nivelación.
+
+
+* **Gabriela (Nota: 2,6 | Asistencia: 80%):** Aunque su nota es baja, su dificultad principal es externa y de infraestructura técnica (comparte computador en casa), lo cual requiere más una solución de recursos físicos o equipos que un acompañamiento pedagógico correctivo urgente.
+
+COMPARACIÓN
+### 1. ¿Qué cambió?
+
+* **En la primera selección (coincidente con tu criterio):** Se priorizó un enfoque holístico que combinó el bajo rendimiento académico con **barreras de contexto personal y material** (la situación familiar de Diego, el bloqueo conceptual a pesar del esfuerzo de Ana, y la limitación técnica de Gabriela al compartir computador).
+
+
+* **En la segunda selección (puramente algorítmica/académica):** Se descartó el contexto socio-material y se priorizó un filtro estricto de **notas y riesgos de desempeño técnico directo**, sacando a Gabriela e ingresando a **Hugo** (nota 2,5 y dificultad para explicar su propio código).
+
+
+
+---
+
+### 2. ¿Qué dato o criterio produjo el cambio?
+
+El factor determinante que generó la diferencia entre ambas perspectivas fue **el peso otorgado a las condiciones contextuales frente al rendimiento métrico puro**:
+
+* **El criterio de tu propuesta (y mi primera respuesta):** Consideró que las barreras externas (como compartir el computador en casa, en el caso de Gabriela) son un impedimento crítico para aprender programación, justificando el cupo de acompañamiento para ayudarle a mitigar esa desventaja material.
+
+
+* **El criterio puramente técnico:** Desplazó a Gabriela porque su nota (2,6) era ligeramente superior a la de otros y su problema se catalogó como un recurso físico externo, dándole el cupo a Hugo (2,5) porque su problema era directamente de dominio técnico interno (*"le cuesta explicar cómo funciona el código que presenta"*), lo cual representa un riesgo académico más directo dentro del aula.
+
+
+
+---
+
+### 3. Cambios en la justificación
+
+Aunque los nombres seleccionados en el primer ejercicio fueron los mismos, **la justificación varió en el enfoque**:
+
+* Mientras tu estructura argumentativa justifica la elección de Gabriela en función de sus **recursos disponibles y limitaciones de hardware**, una aproximación estrictamente fría o basada en notas desplaza ese factor humano argumentando que el programa de acompañamiento debe atacar primero las deficiencias directas de competencias de código (como el caso de Hugo).
+
+CONCLUSIÓN
+Comparamos dos enfoques de la IA para seleccionar estudiantes de refuerzo. El primero, holístico, eligió a Ana, Diego y Gabriela, priorizando notas bajas sumadas a barreras contextuales y materiales (como compartir PC). El segundo, puramente métrico, seleccionó a Diego, Ana y Hugo, reemplazando a Gabriela por una falla técnica directa de código.
+
+La diferencia clave radica en el peso otorgado al contexto socio-material frente a los datos cuantitativos puros.
+
+Concluimos que la tecnología refleja los criterios que el evaluador prioriza. Las métricas frías descuidan obstáculos reales de aprendizaje; por ello, la automatización debe servir de apoyo analítico, pero el criterio humano es indispensable para que las decisiones pedagógicas sean justas, empáticas y con un propósito verdaderamente integral.
