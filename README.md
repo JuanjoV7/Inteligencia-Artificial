@@ -1,6 +1,6 @@
 # Entregable T1 · Repositorio de Inteligencia Artificial
 
-**Estudiantes:** Juan José Viana, Mateo Cardenas Correa, Danna Melisa Acevedo
+**Estudiantes:** Juan José Viana, Mateo Cardenas Correa, Danna Melisa Acevedo, Deivi Garcia Granda
 
 Este repositorio reúne los tres ejercicios trabajados en las sesiones de IA. Cada ejercicio está en su propia carpeta.
 
